@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-crf",
+  "version": "1.0.0",
+  "description": "NPM Packaging Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crfkup/hello-world-crf.git"
+  },
+  "keywords": [
+    "NPM",
+    "packaging",
+    "test"
+  ],
+  "author": "CRF-Kup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crfkup/hello-world-crf/issues"
+  },
+  "homepage": "https://github.com/crfkup/hello-world-crf#readme"
+}
